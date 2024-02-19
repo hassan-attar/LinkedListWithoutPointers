@@ -1,6 +1,6 @@
-# C Linked List Implementation
+# C Linked List Implementation without pointers
 
-This repository contains a C implementation of a linked list using arrays. It provides various operations for manipulating the linked list, such as insertion, deletion, searching, and compactification.
+This repository contains a C implementation of a linked list using arrays (no pointer). It provides various operations for manipulating the linked list, such as insertion, deletion, searching, and compactification.
 This is based on chapter 10, section 3 (10.3) of the CLRS book (Introduction to Algorithm).
 ## Features
 
